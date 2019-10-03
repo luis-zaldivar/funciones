@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	cout<<"el paso por valor da: "<<r<<endl;
 	Factorial(valor1);
 	cout<<"el factorial de paso por referencia es: "<<Factorial(valor1)<<endl;
-	cout<<"el fibonacci de paso por valor es: "<<fib(6)<<endl;
+	cout<<"el fibonacci de paso por valor es: "<<fib(r)<<endl;
 	
 	
 	
